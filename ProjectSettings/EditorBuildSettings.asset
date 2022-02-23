@@ -5,22 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/Passthrough/Scenes/AugmentedObjects.unity
     guid: 9afeada2bbd240b4981cfb6abb525418
-  - enabled: 1
+  - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/Passthrough/Scenes/Lighting.unity
     guid: b79c88b27037b4b48ab3fa45a63f208d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/Passthrough/Scenes/OverlayPassthrough.unity
     guid: 698c56db7f615834881cf3fad4dae4b5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/Passthrough/Scenes/PassthroughHands.unity
     guid: c94e480e4a6da614693c0cd3372e2d2d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/Passthrough/Scenes/PassthroughStyles.unity
     guid: a1a6574991742284e9630c2e8f93648a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/Passthrough/Scenes/SelectivePassthrough.unity
     guid: 0e7861142f653584586c707ede59072e
   - enabled: 1
